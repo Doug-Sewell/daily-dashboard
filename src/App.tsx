@@ -1,6 +1,8 @@
+import { Typography } from '@mui/material';
+
 function App() {
   return (
-  <p>rendering!</p>
+  <Typography>rendering!</Typography>
     )
 }
 
